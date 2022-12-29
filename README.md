@@ -1,4 +1,4 @@
-## Olá! Me chamo Arthur Correia 👋
+## Olá! Me chamo Arthur Correia
 
 - 🌱 Estudando JavaScript 
 
