@@ -1,6 +1,6 @@
 ## Olá! Me chamo Arthur Correia
 
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScript/TypeScript 
 
 
 <div align="center">
