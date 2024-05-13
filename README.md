@@ -1,6 +1,6 @@
 ## Olá! Me chamo Arthur Correia
 
-- 🌱 Estudando Angular e Java
+- 🌱 Estudando Spring Boot e Angular
 
 
 <div align="center">
