@@ -1,5 +1,7 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Call Me Hand Medium-Dark Skin Tone" width="35" height="35" />! I'm Arthur Correia</h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-correia-2b07aa243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurcorreia.dev@gmail.com)
+
 🚀 Software Developer  
 🌱 Currently specializing in the Spring ecosystem  
 ⚡ Focused on solving problems with quality and scalability  
@@ -20,13 +22,10 @@
 
 <div align="center">
   <a href="#">
-    <img height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artucorreia&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artucorreia&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github"/>
   </a>
   <a href="#">
     <img height="180px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucorreia&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
-  <a href="#">
-    <img height="180px" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=artucorreia&theme=catppuccin_mocha&hide_border=true"/>  
   </a>
 </div>
 
